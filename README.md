@@ -1,6 +1,9 @@
 ### Hi there, Ashish Kumar here! 👋
 
-
-I am frontend developer based in Bengaluru,India.
+:computer: currently working as a frontend developer at Nineleaps
+:house_with_garden: living in Bengaluru, India
+:closed_book: learning nextjs and react
+:open_hands: open to collaborate on projects
+:art: love art specially digital and acrylic painting
 
 
